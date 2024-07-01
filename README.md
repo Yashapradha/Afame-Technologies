@@ -40,4 +40,4 @@ This project is a basic calculator built using HTML, CSS, and JavaScript. The ca
 1. **User Input**: Users can input numbers and operations by clicking the respective buttons.
 2. **Display**: The current input and results are displayed on the screen.
 3. **Operations**: Users can perform addition, subtraction, multiplication, and division.
-4. **Clear**: The clear button resets the input and display.
+4. **Clear**: The AC button resets the input and display.
